@@ -1,0 +1,3 @@
+squirrelPlay(70,false) returned false while true were expected.
+squirrelPlay(95,true) returned false while true were expected.
+
