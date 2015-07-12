@@ -1,0 +1,4 @@
+caughtSpeeding(60,False) returned None while 0 were expected.
+caughtSpeeding(65,False) returned None while 1 were expected.
+caughtSpeeding(65,True) returned None while 0 were expected.
+

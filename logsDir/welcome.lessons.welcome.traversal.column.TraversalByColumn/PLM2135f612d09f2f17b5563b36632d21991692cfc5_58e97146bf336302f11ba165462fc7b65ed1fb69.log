@@ -1,0 +1,8 @@
+  In (0,0), the ground reads '07' (expected: '0').
+  In (1,0), the ground reads '14' (expected: '7').
+  In (2,0), the ground reads '21' (expected: '14').
+  In (3,0), the ground reads '28' (expected: '21').
+  In (4,0), the ground reads '35' (expected: '28').
+  In (5,0), the ground reads '42' (expected: '35').
+  In (6,0), the ground reads '' (expected: '42').
+
