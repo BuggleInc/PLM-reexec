@@ -1,0 +1,8 @@
+  In (0,6), the ground reads '42434445464748' (expected: '42').
+  In (1,6), the ground reads '' (expected: '43').
+  In (2,6), the ground reads '' (expected: '44').
+  In (3,6), the ground reads '' (expected: '45').
+  In (4,6), the ground reads '' (expected: '46').
+  In (5,6), the ground reads '' (expected: '47').
+  In (6,6), the ground reads '' (expected: '48').
+

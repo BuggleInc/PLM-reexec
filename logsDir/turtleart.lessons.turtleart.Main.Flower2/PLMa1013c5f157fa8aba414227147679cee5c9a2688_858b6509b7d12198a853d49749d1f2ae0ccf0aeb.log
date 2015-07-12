@@ -1,0 +1,28 @@
+  There is 20 shapes, but only 4 shapes were expected
+Superflous shapes in your solution:
+   Line (x25,000 y189,645 / x42,678 y207,322 / black) 
+   Line (x25,000 y225,000 / x42,678 y207,322 / black) 
+   Line (x25,000 y189,645 / x50,000 y189,645 / black) 
+   Line (x25,000 y225,000 / x50,000 y225,000 / black) 
+   Line (x42,678 y207,322 / x92,678 y207,322 / black) 
+   Line (x50,000 y164,645 / x50,000 y189,645 / black) 
+   Line (x50,000 y225,000 / x50,000 y250,000 / black) 
+   Line (x50,000 y164,645 / x67,678 y182,322 / black) 
+   Line (x50,000 y250,000 / x67,678 y232,322 / black) 
+   Line (x50,000 y189,645 / x85,355 y225,000 / black) 
+   Line (x50,000 y225,000 / x85,355 y189,645 / black) 
+   Line (x67,678 y182,322 / x67,678 y232,322 / black) 
+   Line (x67,678 y182,322 / x85,355 y164,645 / black) 
+   Line (x67,678 y232,322 / x85,355 y250,000 / black) 
+   Line (x85,355 y164,645 / x85,355 y189,645 / black) 
+   Line (x85,355 y225,000 / x85,355 y250,000 / black) 
+   Line (x85,355 y189,645 / x110,355 y189,645 / black) 
+   Line (x85,355 y225,000 / x110,355 y225,000 / black) 
+   Line (x92,678 y207,322 / x110,355 y189,645 / black) 
+   Line (x92,678 y207,322 / x110,355 y225,000 / black) 
+Missing shapes in your solution:
+   Line (x50,000 y50,000 / x50,000 y250,000 / black) 
+   Line (x50,000 y50,000 / x250,000 y50,000 / black) 
+   Line (x50,000 y250,000 / x250,000 y250,000 / black) 
+   Line (x250,000 y50,000 / x250,000 y250,000 / black) 
+

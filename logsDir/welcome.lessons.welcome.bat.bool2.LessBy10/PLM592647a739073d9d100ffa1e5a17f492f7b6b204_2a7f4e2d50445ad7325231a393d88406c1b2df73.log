@@ -1,0 +1,4 @@
+lessBy10(1,7,11) returned Nil while true were expected.
+lessBy10(1,7,10) returned Nil while false were expected.
+lessBy10(11,1,7) returned Nil while true were expected.
+

@@ -1,0 +1,7 @@
+Invalid read count. Expected: 0; Found: 1
+
+Invalid read count. Expected: 0; Found: 3
+Invalid write count. Expected: 0; Found: 2
+Value at index 5 differs. Expected BN; Found AA
+Value at index 6 differs. Expected AA; Found BN
+
