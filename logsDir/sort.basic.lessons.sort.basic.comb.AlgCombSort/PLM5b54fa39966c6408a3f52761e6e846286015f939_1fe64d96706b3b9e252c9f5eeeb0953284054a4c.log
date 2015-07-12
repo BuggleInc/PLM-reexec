@@ -1,0 +1,19 @@
+Invalid read count. Expected: 94; Found: 76
+
+Invalid read count. Expected: 4 986; Found: 4 376
+Invalid write count. Expected: 832; Found: 818
+Value at index 1 differs. Expected AB; Found AC
+Value at index 2 differs. Expected AC; Found AB
+Value at index 58 differs. Expected CG; Found CH
+Value at index 59 differs. Expected CH; Found CG
+Value at index 70 differs. Expected CS; Found CT
+Value at index 71 differs. Expected CT; Found CS
+Value at index 89 differs. Expected DL; Found DM
+Value at index 90 differs. Expected DM; Found DL
+Value at index 97 differs. Expected DT; Found DU
+Value at index 98 differs. Expected DU; Found DT
+Value at index 109 differs. Expected EF; Found EG
+Value at index 110 differs. Expected EG; Found EF
+Value at index 135 differs. Expected FF; Found FG
+Value at index 136 differs. Expected FG; Found FF
+

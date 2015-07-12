@@ -1,0 +1,11 @@
+Invalid read count. Expected: 106; Found: 88
+
+Invalid read count. Expected: 4 906; Found: 4 304
+Invalid write count. Expected: 752; Found: 746
+Value at index 38 differs. Expected BM; Found BN
+Value at index 39 differs. Expected BN; Found BM
+Value at index 56 differs. Expected CE; Found CF
+Value at index 57 differs. Expected CF; Found CE
+Value at index 130 differs. Expected FA; Found FB
+Value at index 131 differs. Expected FB; Found FA
+

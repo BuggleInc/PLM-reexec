@@ -1,0 +1,11 @@
+  Something is wrong about buggle 'Homer':
+    Its position is (0,3); expected: (0,0).
+  Something is wrong about buggle 'Bart':
+    Its position is (1,1); expected: (1,0).
+  Something is wrong about buggle 'Lisa':
+    Its position is (2,3); expected: (2,0).
+  Something is wrong about buggle 'Marge':
+    Its position is (4,6); expected: (4,0).
+  Something is wrong about buggle 'Scratchy':
+    Its position is (6,2); expected: (6,0).
+

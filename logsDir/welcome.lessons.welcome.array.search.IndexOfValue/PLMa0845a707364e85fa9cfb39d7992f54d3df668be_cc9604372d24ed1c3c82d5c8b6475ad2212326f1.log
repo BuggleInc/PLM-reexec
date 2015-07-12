@@ -1,0 +1,7 @@
+indexOfValue(Array(2,-3,1,17,-13,5,3,1,9,18),17) returned Nil while 3 were expected.
+indexOfValue(Array(2,-3,1,17,-13,5,3,1,9,18),15) returned Nil while -1 were expected.
+indexOfValue(Array(8,16,9,-7,13,17,-4,19,16,12,5,-12,-6,-4,13),15) returned Nil while -1 were expected.
+indexOfValue(Array(8,16,9,-7,13,17,-4,19,16,12,5,-12,-6,-4,13),-12) returned Nil while 11 were expected.
+indexOfValue(Array(-4,2,1,-13,-13,12,-2,-13,10,-3,17,10,10,18,-15,-6,6,0,-5,6),-8) returned Nil while -1 were expected.
+indexOfValue(Array(-4,2,1,-13,-13,12,-2,-13,10,-3,17,10,10,18,-15,-6,6,0,-5,6),18) returned Nil while 13 were expected.
+

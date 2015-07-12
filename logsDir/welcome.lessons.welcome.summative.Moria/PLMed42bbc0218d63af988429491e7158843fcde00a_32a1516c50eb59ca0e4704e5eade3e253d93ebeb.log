@@ -1,0 +1,7 @@
+  Something is wrong about buggle 'Balin':
+    Its position is (20,3); expected: (19,2).
+  Something is wrong about buggle 'Dwalin':
+    Its position is (20,6); expected: (19,5).
+  Something is wrong about buggle 'Gimli':
+    Its position is (20,8); expected: (19,8).
+
