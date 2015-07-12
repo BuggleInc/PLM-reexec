@@ -1,0 +1,5 @@
+  In (12,1), there should be a baggle.
+  In (15,7), there should be a baggle.
+  Something is wrong about buggle 'Dwalin':
+    Its position is (18,4); expected: (19,5).
+

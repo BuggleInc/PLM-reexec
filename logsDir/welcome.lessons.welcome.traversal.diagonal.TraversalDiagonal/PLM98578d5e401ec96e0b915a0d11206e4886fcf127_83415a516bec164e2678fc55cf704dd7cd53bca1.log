@@ -1,0 +1,12 @@
+  In (0,1), the ground reads '481' (expected: '1').
+  In (0,2), the ground reads '483' (expected: '3').
+  In (0,3), the ground reads '486' (expected: '6').
+  In (0,4), the ground reads '4810' (expected: '10').
+  In (0,5), the ground reads '4815' (expected: '15').
+  In (0,6), the ground reads '4821' (expected: '21').
+  In (1,6), the ground reads '4828' (expected: '28').
+  In (2,6), the ground reads '4834' (expected: '34').
+  In (3,6), the ground reads '4839' (expected: '39').
+  In (4,6), the ground reads '4843' (expected: '43').
+  In (5,6), the ground reads '4846' (expected: '46').
+
