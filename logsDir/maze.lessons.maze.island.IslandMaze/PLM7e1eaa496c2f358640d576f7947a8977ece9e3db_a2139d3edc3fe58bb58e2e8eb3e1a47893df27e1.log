@@ -1,0 +1,14 @@
+  In (4,2), the ground is expected to be white, but it is black.
+  In (4,3), the ground is expected to be white, but it is black.
+  In (4,4), the ground is expected to be white, but it is black.
+  In (5,0), the ground is expected to be white, but it is black.
+  In (5,1), the ground is expected to be white, but it is black.
+
+  In (7,3), the ground is expected to be white, but it is black.
+  In (7,4), the ground is expected to be white, but it is black.
+  In (7,5), the ground is expected to be white, but it is black.
+  In (7,6), the ground is expected to be java.awt.Color[r=204,g=204,b=255], but it is black.
+  In (9,1), the ground is expected to be white, but it is black.
+  In (9,2), the ground is expected to be white, but it is black.
+  In (9,3), the ground is expected to be white, but it is black.
+

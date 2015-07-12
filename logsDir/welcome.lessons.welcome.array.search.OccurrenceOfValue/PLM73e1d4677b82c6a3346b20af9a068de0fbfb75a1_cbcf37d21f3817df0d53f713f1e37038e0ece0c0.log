@@ -1,0 +1,6 @@
+occurrences(Array(2,-3,1,17,-13,5,3,1,9,18),17) returned 0 while 1 were expected.
+occurrences(Array(3,2,4,0,4,3,6,6,6,0,2,2,4,6,0),3) returned 0 while 2 were expected.
+occurrences(Array(3,2,4,0,4,3,6,6,6,0,2,2,4,6,0),0) returned 0 while 3 were expected.
+occurrences(Array(2,3,0,1,0,6,0,5,0,6,2,0,0,1,4,3,4,3,6,3),3) returned 0 while 4 were expected.
+occurrences(Array(2,3,0,1,0,6,0,5,0,6,2,0,0,1,4,3,4,3,6,3),4) returned 0 while 2 were expected.
+

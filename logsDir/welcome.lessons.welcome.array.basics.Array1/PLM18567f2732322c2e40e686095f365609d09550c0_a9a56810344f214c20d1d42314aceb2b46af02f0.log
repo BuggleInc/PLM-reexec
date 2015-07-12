@@ -1,0 +1,12 @@
+  In (0,0), the ground is expected to be red, but it is pink.
+  Something is wrong about buggle 'Picasso':
+    Its position is (0,0); expected: (5,5).
+
+  In (0,0), the ground is expected to be pink, but it is cyan.
+  Something is wrong about buggle 'Braque':
+    Its position is (0,0); expected: (6,6).
+
+  In (0,0), the ground is expected to be red, but it is cyan.
+  Something is wrong about buggle 'Ingres':
+    Its position is (0,0); expected: (7,7).
+
