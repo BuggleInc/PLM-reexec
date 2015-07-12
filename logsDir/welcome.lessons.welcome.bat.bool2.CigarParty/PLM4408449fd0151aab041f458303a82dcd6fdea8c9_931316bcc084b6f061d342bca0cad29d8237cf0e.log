@@ -1,0 +1,4 @@
+cigarParty(30,False) returned None while False were expected.
+cigarParty(50,False) returned None while True were expected.
+cigarParty(70,True) returned None while True were expected.
+

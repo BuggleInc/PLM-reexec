@@ -1,0 +1,4 @@
+in1020(12,99) returned None while True were expected.
+in1020(21,12) returned None while True were expected.
+in1020(8,99) returned None while False were expected.
+

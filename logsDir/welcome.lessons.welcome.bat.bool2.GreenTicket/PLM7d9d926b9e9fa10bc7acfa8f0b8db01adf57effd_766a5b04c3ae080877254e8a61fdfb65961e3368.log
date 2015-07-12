@@ -1,0 +1,4 @@
+greenTicket(1,2,3) returned None while 0 were expected.
+greenTicket(2,2,2) returned None while 20 were expected.
+greenTicket(1,1,2) returned None while 10 were expected.
+

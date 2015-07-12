@@ -1,0 +1,17 @@
+  In (7,4), the ground is expected to be blue, but it is java.awt.Color[r=0,g=155,b=0].
+  In (7,12), the ground is expected to be blue, but it is java.awt.Color[r=0,g=155,b=0].
+  In (8,3), the ground is expected to be blue, but it is java.awt.Color[r=0,g=155,b=0].
+  In (8,4), the ground is expected to be yellow, but it is blue.
+  In (8,5), the ground is expected to be blue, but it is java.awt.Color[r=0,g=155,b=0].
+  In (8,11), the ground is expected to be blue, but it is java.awt.Color[r=0,g=155,b=0].
+  In (8,12), the ground is expected to be yellow, but it is blue.
+  In (8,13), the ground is expected to be blue, but it is java.awt.Color[r=0,g=155,b=0].
+  In (9,3), the ground is expected to be java.awt.Color[r=0,g=155,b=0], but it is blue.
+  In (9,4), the ground is expected to be blue, but it is yellow.
+  In (9,5), the ground is expected to be java.awt.Color[r=0,g=155,b=0], but it is blue.
+  In (9,11), the ground is expected to be java.awt.Color[r=0,g=155,b=0], but it is blue.
+  In (9,12), the ground is expected to be blue, but it is yellow.
+  In (9,13), the ground is expected to be java.awt.Color[r=0,g=155,b=0], but it is blue.
+  In (10,4), the ground is expected to be java.awt.Color[r=0,g=155,b=0], but it is blue.
+  In (10,12), the ground is expected to be java.awt.Color[r=0,g=155,b=0], but it is blue.
+

@@ -1,0 +1,4 @@
+redTicket(2,2,2) returned None while 10 were expected.
+redTicket(2,2,1) returned None while 0 were expected.
+redTicket(0,0,0) returned None while 5 were expected.
+

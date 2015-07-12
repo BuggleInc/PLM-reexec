@@ -1,0 +1,4 @@
+lastDigit(23,19,13) returned None while True were expected.
+lastDigit(23,19,12) returned None while False were expected.
+lastDigit(23,19,3) returned None while True were expected.
+

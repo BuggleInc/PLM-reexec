@@ -1,0 +1,2 @@
+withoutDoubles(6,6,true) returned 3 while 7 were expected.
+

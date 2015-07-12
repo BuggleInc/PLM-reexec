@@ -1,0 +1,4 @@
+loneTeen(13,42) returned None while True were expected.
+loneTeen(21,19) returned None while True were expected.
+loneTeen(13,13) returned None while False were expected.
+

@@ -1,0 +1,4 @@
+lessBy10(1,7,11) returned None while True were expected.
+lessBy10(1,7,10) returned None while False were expected.
+lessBy10(11,1,7) returned None while True were expected.
+

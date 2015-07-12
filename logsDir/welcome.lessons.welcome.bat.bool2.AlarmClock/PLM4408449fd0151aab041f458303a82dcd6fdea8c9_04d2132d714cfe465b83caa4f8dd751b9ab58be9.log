@@ -1,0 +1,4 @@
+alarmClock(1,False) returned None while "7:00" were expected.
+alarmClock(5,False) returned None while "7:00" were expected.
+alarmClock(0,False) returned None while "10:00" were expected.
+

@@ -1,0 +1,7 @@
+  In (5,2), the ground is expected to be cyan, but it is blue.
+  In (6,1), the ground is expected to be cyan, but it is blue.
+  In (6,3), the ground is expected to be cyan, but it is blue.
+  In (7,2), the ground is expected to be cyan, but it is blue.
+  Something is wrong about buggle 'Van Gogh':
+    Its position is (6,6); expected: (1,6).
+

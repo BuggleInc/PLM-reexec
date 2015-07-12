@@ -1,0 +1,4 @@
+lastDigit(7,17) returned None while True were expected.
+lastDigit(6,17) returned None while False were expected.
+lastDigit(3,113) returned None while True were expected.
+

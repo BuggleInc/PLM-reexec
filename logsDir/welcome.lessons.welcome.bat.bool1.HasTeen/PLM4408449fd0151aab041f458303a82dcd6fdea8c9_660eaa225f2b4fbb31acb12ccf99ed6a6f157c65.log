@@ -1,0 +1,4 @@
+hasTeen(13,20,10) returned None while True were expected.
+hasTeen(20,19,10) returned None while True were expected.
+hasTeen(20,10,13) returned None while True were expected.
+

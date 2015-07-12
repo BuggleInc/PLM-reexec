@@ -1,0 +1,4 @@
+nearTen(12) returned None while True were expected.
+nearTen(17) returned None while False were expected.
+nearTen(19) returned None while True were expected.
+
