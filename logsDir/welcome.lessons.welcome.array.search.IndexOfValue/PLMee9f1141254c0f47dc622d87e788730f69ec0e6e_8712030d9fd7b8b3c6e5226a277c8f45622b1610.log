@@ -1,0 +1,5 @@
+indexOfValue(Array(2,-3,1,17,-13,5,3,1,9,18),17) returned -1 while 3 were expected.
+indexOfValue(Array(-7,12,-14,10,-12,-2,-1,18,-2,14,19,10,9,-5,-5),9) returned -1 while 12 were expected.
+indexOfValue(Array(-1,-15,-1,4,3,4,11,11,6,7,-2,11,3,-11,11,12,-15,-2,-13,3),-11) returned -1 while 13 were expected.
+indexOfValue(Array(-1,-15,-1,4,3,4,11,11,6,7,-2,11,3,-11,11,12,-15,-2,-13,3),11) returned -1 while 6 were expected.
+
