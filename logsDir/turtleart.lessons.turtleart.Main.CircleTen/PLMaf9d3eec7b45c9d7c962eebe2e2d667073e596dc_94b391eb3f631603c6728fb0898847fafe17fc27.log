@@ -1,0 +1,66 @@
+  There is 52 shapes, but only 10 shapes were expected
+Superflous shapes in your solution:
+   Line (x150,013 y149,250 / x151,090 y155,357 / black) 
+   Line (x150,026 y149,001 / x151,090 y144,393 / black) 
+   Line (x151,090 y144,393 / x152,110 y142,391 / black) 
+   Line (x151,090 y155,357 / x152,110 y157,359 / black) 
+   Line (x152,110 y142,391 / x153,113 y140,958 / black) 
+   Line (x152,110 y157,359 / x153,113 y158,792 / black) 
+   Line (x153,113 y140,958 / x154,284 y139,658 / black) 
+   Line (x153,113 y158,792 / x154,284 y160,092 / black) 
+   Line (x154,284 y139,658 / x155,407 y138,665 / black) 
+   Line (x154,284 y160,092 / x155,407 y161,085 / black) 
+   Line (x155,407 y138,665 / x156,418 y137,930 / black) 
+   Line (x155,407 y161,085 / x156,418 y161,820 / black) 
+   Line (x156,418 y137,930 / x157,489 y137,287 / black) 
+   Line (x156,418 y161,820 / x157,489 y162,463 / black) 
+   Line (x157,489 y137,287 / x158,612 y136,739 / black) 
+   Line (x157,489 y162,463 / x158,612 y163,011 / black) 
+   Line (x158,612 y136,739 / x159,778 y136,291 / black) 
+   Line (x158,612 y163,011 / x159,778 y163,459 / black) 
+   Line (x159,778 y136,291 / x160,980 y135,947 / black) 
+   Line (x159,778 y163,459 / x160,980 y163,803 / black) 
+   Line (x160,980 y135,947 / x162,206 y135,708 / black) 
+   Line (x160,980 y163,803 / x162,206 y164,042 / black) 
+   Line (x162,206 y135,708 / x163,449 y135,578 / black) 
+   Line (x162,206 y164,042 / x163,449 y164,172 / black) 
+   Line (x163,449 y135,578 / x164,699 y135,556 / black) 
+   Line (x163,449 y164,172 / x164,699 y164,194 / black) 
+   Line (x164,699 y135,556 / x165,945 y135,643 / black) 
+   Line (x164,699 y164,194 / x165,945 y164,107 / black) 
+   Line (x165,945 y135,643 / x167,179 y135,838 / black) 
+   Line (x165,945 y164,107 / x167,179 y163,912 / black) 
+   Line (x167,179 y135,838 / x168,392 y136,141 / black) 
+   Line (x167,179 y163,912 / x168,392 y163,609 / black) 
+   Line (x168,392 y136,141 / x169,573 y136,548 / black) 
+   Line (x168,392 y163,609 / x169,573 y163,202 / black) 
+   Line (x169,573 y136,548 / x170,715 y137,056 / black) 
+   Line (x169,573 y163,202 / x170,715 y162,694 / black) 
+   Line (x170,715 y137,056 / x171,808 y137,662 / black) 
+   Line (x170,715 y162,694 / x171,808 y162,088 / black) 
+   Line (x171,808 y137,662 / x172,844 y138,360 / black) 
+   Line (x171,808 y162,088 / x172,844 y161,390 / black) 
+   Line (x172,844 y138,360 / x174,001 y139,314 / black) 
+   Line (x172,844 y161,390 / x174,001 y160,436 / black) 
+   Line (x174,001 y139,314 / x175,052 y140,384 / black) 
+   Line (x174,001 y160,436 / x175,052 y159,366 / black) 
+   Line (x175,052 y140,384 / x176,128 y141,762 / black) 
+   Line (x175,052 y159,366 / x176,128 y157,988 / black) 
+   Line (x176,128 y141,762 / x177,143 y143,484 / black) 
+   Line (x176,128 y157,988 / x177,143 y156,266 / black) 
+   Line (x177,143 y143,484 / x178,191 y146,289 / black) 
+   Line (x177,143 y156,266 / x178,191 y153,461 / black) 
+   Line (x178,191 y153,461 / x178,634 y150,500 / black) 
+   Line (x178,191 y146,289 / x178,643 y150,250 / black) 
+Missing shapes in your solution:
+   plm.universe.turtles.Circle@30db8311
+   plm.universe.turtles.Circle@2ba80cc6
+   plm.universe.turtles.Circle@29800f96
+   plm.universe.turtles.Circle@17370bb7
+   plm.universe.turtles.Circle@7b18c14b
+   plm.universe.turtles.Circle@103d2cd2
+   plm.universe.turtles.Circle@39e86dfc
+   plm.universe.turtles.Circle@162db3c5
+   plm.universe.turtles.Circle@2b022ad2
+   plm.universe.turtles.Circle@52a0d8dc
+

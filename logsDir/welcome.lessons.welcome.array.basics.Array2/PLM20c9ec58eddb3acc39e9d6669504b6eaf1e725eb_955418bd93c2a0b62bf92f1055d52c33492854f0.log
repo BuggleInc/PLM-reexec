@@ -1,0 +1,25 @@
+  In (1,5), the ground is expected to be red, but it is orange.
+  In (2,5), the ground is expected to be cyan, but it is orange.
+  In (3,5), the ground is expected to be green, but it is orange.
+  In (4,5), the ground is expected to be magenta, but it is orange.
+  Something is wrong about buggle 'Picasso':
+    Its position is (5,5); expected: (5,0).
+
+  In (1,6), the ground is expected to be pink, but it is green.
+  In (2,6), the ground is expected to be yellow, but it is green.
+  In (3,6), the ground is expected to be red, but it is green.
+  In (4,6), the ground is expected to be red, but it is green.
+  In (5,6), the ground is expected to be yellow, but it is green.
+  In (6,6), the ground is expected to be pink, but it is green.
+  Something is wrong about buggle 'Braque':
+    Its position is (6,6); expected: (6,0).
+    The color of its brush is java.awt.Color[r=0,g=255,b=0]; expected: java.awt.Color[r=255,g=175,b=175].
+
+  In (2,7), the ground is expected to be pink, but it is magenta.
+  In (3,7), the ground is expected to be black, but it is magenta.
+  In (4,7), the ground is expected to be yellow, but it is magenta.
+  In (5,7), the ground is expected to be black, but it is magenta.
+  In (6,7), the ground is expected to be pink, but it is magenta.
+  Something is wrong about buggle 'Ingres':
+    Its position is (7,7); expected: (7,0).
+

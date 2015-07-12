@@ -1,0 +1,43 @@
+The turtle Hawksbill is at the right location.  There is 29 shapes, but only 10 shapes were expected
+Superflous shapes in your solution:
+   Line (x150,000 y150,000 / x151,055 y153,680 / black) 
+   Line (x150,022 y149,376 / x150,000 y152,000 / black) 
+   Line (x150,033 y149,251 / x151,055 y146,195 / black) 
+   Line (x151,055 y146,195 / x152,142 y144,829 / black) 
+   Line (x151,055 y153,680 / x152,142 y155,046 / black) 
+   Line (x152,142 y144,829 / x153,209 y143,965 / black) 
+   Line (x152,142 y155,046 / x153,209 y155,910 / black) 
+   Line (x153,209 y143,965 / x154,306 y143,369 / black) 
+   Line (x153,209 y155,910 / x154,306 y156,506 / black) 
+   Line (x154,306 y143,369 / x155,369 y143,004 / black) 
+   Line (x154,306 y156,506 / x155,369 y156,871 / black) 
+   Line (x155,369 y143,004 / x156,475 y142,808 / black) 
+   Line (x155,369 y156,871 / x156,475 y157,067 / black) 
+   Line (x156,475 y142,808 / x157,599 y142,789 / black) 
+   Line (x156,475 y157,067 / x157,599 y157,086 / black) 
+   Line (x157,599 y142,789 / x158,712 y142,945 / black) 
+   Line (x157,599 y157,086 / x158,712 y156,930 / black) 
+   Line (x158,712 y142,945 / x159,787 y143,274 / black) 
+   Line (x158,712 y156,930 / x159,787 y156,601 / black) 
+   Line (x159,787 y143,274 / x160,797 y143,766 / black) 
+   Line (x159,787 y156,601 / x160,797 y156,109 / black) 
+   Line (x160,797 y143,766 / x161,813 y144,491 / black) 
+   Line (x160,797 y156,109 / x161,813 y155,384 / black) 
+   Line (x161,813 y144,491 / x162,844 y145,578 / black) 
+   Line (x161,813 y155,384 / x162,844 y154,297 / black) 
+   Line (x162,844 y145,578 / x163,870 y147,429 / black) 
+   Line (x162,844 y154,297 / x163,870 y152,446 / black) 
+   Line (x163,870 y152,446 / x164,302 y150,499 / black) 
+   Line (x163,870 y147,429 / x164,310 y150,375 / black) 
+Missing shapes in your solution:
+   plm.universe.turtles.Circle@30db8311
+   plm.universe.turtles.Circle@2ba80cc6
+   plm.universe.turtles.Circle@29800f96
+   plm.universe.turtles.Circle@17370bb7
+   plm.universe.turtles.Circle@7b18c14b
+   plm.universe.turtles.Circle@103d2cd2
+   plm.universe.turtles.Circle@39e86dfc
+   plm.universe.turtles.Circle@162db3c5
+   plm.universe.turtles.Circle@2b022ad2
+   plm.universe.turtles.Circle@52a0d8dc
+

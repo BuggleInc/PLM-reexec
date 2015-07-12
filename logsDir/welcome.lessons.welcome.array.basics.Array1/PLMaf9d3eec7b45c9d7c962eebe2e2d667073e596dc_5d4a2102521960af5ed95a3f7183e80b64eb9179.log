@@ -1,0 +1,6 @@
+  Something is wrong about buggle 'Picasso':
+    Its position is (1,5); expected: (5,5).
+
+  Something is wrong about buggle 'Braque':
+    Its position is (0,6); expected: (6,6).
+

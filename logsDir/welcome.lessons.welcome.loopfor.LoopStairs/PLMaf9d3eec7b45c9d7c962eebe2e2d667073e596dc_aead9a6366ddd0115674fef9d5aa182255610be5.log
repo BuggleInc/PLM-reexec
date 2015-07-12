@@ -1,0 +1,5 @@
+  In (0,0), the ground is expected to be white, but it is pink.
+  In (0,8), the ground is expected to be light grey, but it is black.
+  Something is wrong about buggle 'buggle2':
+    Its position is (0,0); expected: (14,0).
+
