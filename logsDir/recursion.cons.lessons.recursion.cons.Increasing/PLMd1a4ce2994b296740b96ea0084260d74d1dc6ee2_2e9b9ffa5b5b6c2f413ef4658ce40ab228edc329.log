@@ -1,0 +1,2 @@
+increasing( [1, 2, 3, 4] ) returned false while true were expected.
+
