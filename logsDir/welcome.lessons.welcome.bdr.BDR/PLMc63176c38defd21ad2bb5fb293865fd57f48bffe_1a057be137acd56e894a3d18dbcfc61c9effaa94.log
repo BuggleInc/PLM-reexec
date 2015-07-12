@@ -1,0 +1,5 @@
+  Something is wrong about buggle 'Moon Walker':
+    Its position is (4,3); expected: (3,2).
+  Something is wrong about buggle 'Elwood Blues':
+    Its position is (6,3); expected: (3,4).
+
