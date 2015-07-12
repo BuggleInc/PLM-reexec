@@ -1,0 +1,16 @@
+  In (2,6), the ground reads '' (expected: '34').
+  In (3,5), the ground reads '' (expected: '35').
+  In (3,6), the ground reads '' (expected: '39').
+  In (4,4), the ground reads '' (expected: '36').
+  In (4,5), the ground reads '' (expected: '40').
+  In (4,6), the ground reads '' (expected: '43').
+  In (5,3), the ground reads '' (expected: '37').
+  In (5,4), the ground reads '' (expected: '41').
+  In (5,5), the ground reads '' (expected: '44').
+  In (5,6), the ground reads '' (expected: '46').
+  In (6,2), the ground reads '' (expected: '38').
+  In (6,3), the ground reads '' (expected: '42').
+  In (6,4), the ground reads '' (expected: '45').
+  In (6,5), the ground reads '' (expected: '47').
+  In (6,6), the ground reads '' (expected: '48').
+
