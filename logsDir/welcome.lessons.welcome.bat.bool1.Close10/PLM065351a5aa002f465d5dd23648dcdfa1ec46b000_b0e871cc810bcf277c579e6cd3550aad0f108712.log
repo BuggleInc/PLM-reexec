@@ -1,0 +1,4 @@
+close10(8,13) returned None while 8 were expected.
+close10(13,8) returned None while 8 were expected.
+close10(13,7) returned None while 0 were expected.
+

@@ -1,0 +1,11 @@
+  Something is wrong about buggle 'buggle3':
+    Its position is (0,2); expected: (0,6).
+  Something is wrong about buggle 'buggle5':
+    Its position is (2,14); expected: (2,5).
+  Something is wrong about buggle 'buggle6':
+    Its position is (3,1); expected: (3,3).
+  Something is wrong about buggle 'buggle7':
+    Its position is (4,14); expected: (4,4).
+  Something is wrong about buggle 'buggle9':
+    Its position is (6,14); expected: (6,6).
+

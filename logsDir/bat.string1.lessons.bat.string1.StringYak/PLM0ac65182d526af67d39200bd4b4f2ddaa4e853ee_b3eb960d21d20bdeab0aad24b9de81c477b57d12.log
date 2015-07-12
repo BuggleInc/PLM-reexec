@@ -1,0 +1,4 @@
+stringYak(yakpak) returned Nil while pak were expected.
+stringYak(pakyak) returned Nil while pak were expected.
+stringYak(yak123ya) returned Nil while 123ya were expected.
+

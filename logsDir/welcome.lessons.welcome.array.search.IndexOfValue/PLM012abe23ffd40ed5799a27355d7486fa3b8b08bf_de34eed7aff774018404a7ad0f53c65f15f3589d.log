@@ -1,0 +1,7 @@
+indexOfValue([2,-3,1,17,-13,5,3,1,9,18],17) returned None while 3 were expected.
+indexOfValue([2,-3,1,17,-13,5,3,1,9,18],15) returned None while -1 were expected.
+indexOfValue([15,7,11,2,10,-11,18,-13,11,16,11,-3,13,9,-14],14) returned None while -1 were expected.
+indexOfValue([15,7,11,2,10,-11,18,-13,11,16,11,-3,13,9,-14],9) returned None while 13 were expected.
+indexOfValue([-10,13,3,1,0,12,-8,15,11,19,-7,16,1,-8,-11,-3,6,5,-13,-3],1) returned None while 3 were expected.
+indexOfValue([-10,13,3,1,0,12,-8,15,11,19,-7,16,1,-8,-11,-3,6,5,-13,-3],15) returned None while 7 were expected.
+

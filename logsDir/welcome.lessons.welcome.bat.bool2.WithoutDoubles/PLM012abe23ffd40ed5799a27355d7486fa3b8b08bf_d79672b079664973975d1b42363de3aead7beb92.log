@@ -1,0 +1,4 @@
+withoutDoubles(2,3,True) returned None while 5 were expected.
+withoutDoubles(3,3,True) returned None while 7 were expected.
+withoutDoubles(3,3,False) returned None while 6 were expected.
+

@@ -1,0 +1,4 @@
+parotTrouble(True,6) returned None while True were expected.
+parotTrouble(True,7) returned None while False were expected.
+parotTrouble(False,6) returned None while False were expected.
+

@@ -1,0 +1,4 @@
+last2(hixxhi) returned Nil while 1 were expected.
+last2(xaxxaxaxx) returned Nil while 1 were expected.
+last2(axxxaaxx) returned Nil while 2 were expected.
+

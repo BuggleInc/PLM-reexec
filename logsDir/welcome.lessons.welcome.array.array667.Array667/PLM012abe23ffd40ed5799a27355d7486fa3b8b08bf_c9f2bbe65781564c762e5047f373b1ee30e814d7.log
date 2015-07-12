@@ -1,0 +1,4 @@
+array667([6,6,2]) returned None while 1 were expected.
+array667([6,6,2,6]) returned None while 1 were expected.
+array667([6,7,2,6]) returned None while 1 were expected.
+

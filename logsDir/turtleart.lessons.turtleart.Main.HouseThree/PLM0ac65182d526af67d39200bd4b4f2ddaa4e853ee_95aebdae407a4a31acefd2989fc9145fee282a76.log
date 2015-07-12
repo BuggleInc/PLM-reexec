@@ -1,0 +1,12 @@
+  There is only 15 shapes, but 24 shapes were expected
+Missing shapes in your solution:
+   Line (x100,000 y120,000 / x100,000 y150,000 / black) 
+   Line (x100,000 y150,000 / x130,000 y150,000 / black) 
+   Line (x130,000 y120,000 / x130,000 y150,000 / black) 
+   Line (x150,000 y120,000 / x150,000 y150,000 / black) 
+   Line (x150,000 y150,000 / x180,000 y150,000 / black) 
+   Line (x180,000 y120,000 / x180,000 y150,000 / black) 
+   Line (x200,000 y120,000 / x200,000 y150,000 / black) 
+   Line (x200,000 y150,000 / x230,000 y150,000 / black) 
+   Line (x230,000 y120,000 / x230,000 y150,000 / black) 
+

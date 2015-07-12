@@ -1,0 +1,3 @@
+frontTimes(Chocolate,2) returned ChocolateChocolate while ChoCho were expected.
+frontTimes(Chocolate,3) returned ChocolateChocolateChocolate while ChoChoCho were expected.
+
