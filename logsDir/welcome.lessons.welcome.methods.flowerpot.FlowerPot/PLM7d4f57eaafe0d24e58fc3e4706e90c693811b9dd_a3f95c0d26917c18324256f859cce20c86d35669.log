@@ -1,0 +1,7 @@
+  In (2,2), the ground is expected to be yellow, but it is java.awt.Color[r=0,g=155,b=0].
+  In (2,6), the ground is expected to be yellow, but it is java.awt.Color[r=0,g=155,b=0].
+  In (4,4), the ground is expected to be yellow, but it is java.awt.Color[r=0,g=155,b=0].
+  In (6,2), the ground is expected to be yellow, but it is java.awt.Color[r=0,g=155,b=0].
+  Something is wrong about buggle 'Van Gogh':
+    Its position is (6,7); expected: (1,6).
+

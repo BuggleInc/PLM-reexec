@@ -1,0 +1,14 @@
+  In (3,7), the ground is expected to be white, but it is light grey.
+  In (6,5), the ground is expected to be green, but it is white.
+  In (7,4), the ground is expected to be yellow, but it is white.
+  In (8,3), the ground is expected to be orange, but it is white.
+  In (9,2), the ground is expected to be red, but it is white.
+  In (10,1), the ground is expected to be magenta, but it is white.
+  In (11,0), the ground is expected to be pink, but it is white.
+  In (12,0), the ground is expected to be pink, but it is white.
+  In (13,0), the ground is expected to be pink, but it is white.
+  In (14,0), the ground is expected to be pink, but it is white.
+  Something is wrong about buggle 'buggle2':
+    Its position is (5,6); expected: (14,0).
+    The color of its brush is java.awt.Color[r=0,g=255,b=255]; expected: java.awt.Color[r=255,g=175,b=175].
+

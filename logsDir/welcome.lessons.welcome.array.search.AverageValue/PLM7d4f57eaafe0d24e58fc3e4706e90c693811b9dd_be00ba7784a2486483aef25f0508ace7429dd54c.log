@@ -1,0 +1,2 @@
+averageValue(Array(42)) returned Nil while 42 were expected.
+

@@ -1,0 +1,18 @@
+  In (2,0), the ground is expected to be green, but it is magenta.
+  In (3,0), the ground is expected to be magenta, but it is pink.
+  In (4,0), the ground is expected to be orange, but it is cyan.
+  In (5,0), the ground is expected to be pink, but it is magenta.
+
+  In (2,0), the ground is expected to be red, but it is orange.
+  In (3,0), the ground is expected to be orange, but it is green.
+  In (4,0), the ground is expected to be orange, but it is cyan.
+  In (5,0), the ground is expected to be red, but it is cyan.
+  In (6,0), the ground is expected to be yellow, but it is cyan.
+
+  In (2,0), the ground is expected to be magenta, but it is cyan.
+  In (3,0), the ground is expected to be pink, but it is cyan.
+  In (4,0), the ground is expected to be black, but it is cyan.
+  In (5,0), the ground is expected to be pink, but it is green.
+  In (6,0), the ground is expected to be magenta, but it is yellow.
+  In (7,0), the ground is expected to be cyan, but it is pink.
+

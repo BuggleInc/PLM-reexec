@@ -1,0 +1,4 @@
+answerCell(False,False,False) returned None while True were expected.
+answerCell(False,False,True) returned None while False were expected.
+answerCell(True,False,False) returned None while False were expected.
+
