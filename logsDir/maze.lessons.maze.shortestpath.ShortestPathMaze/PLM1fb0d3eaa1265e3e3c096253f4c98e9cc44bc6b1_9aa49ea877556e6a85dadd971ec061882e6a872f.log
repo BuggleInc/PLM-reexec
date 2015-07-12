@@ -1,0 +1,5 @@
+  In (8,0), the ground reads '10002' (expected: '').
+  In (9,0), the ground reads '10001' (expected: '').
+  In (10,0), the ground reads '10000' (expected: '').
+  In (11,1), the ground reads '10000' (expected: '').
+

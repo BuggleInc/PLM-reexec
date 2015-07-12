@@ -1,0 +1,13 @@
+  In (9,0), the ground reads '10000' (expected: '').
+  In (11,0), the ground reads '10000' (expected: '').
+  In (11,2), the ground reads '10000' (expected: '').
+  In (11,5), there shouldn't be this baggle.
+  Something is wrong about buggle 'Thesee':
+    Its position is (10,10); expected: (11,5).
+    It should not carry that baggle.
+
+  In (19,19), there shouldn't be this baggle.
+  Something is wrong about buggle 'Thesee':
+    Its position is (17,16); expected: (19,19).
+    It should not carry that baggle.
+

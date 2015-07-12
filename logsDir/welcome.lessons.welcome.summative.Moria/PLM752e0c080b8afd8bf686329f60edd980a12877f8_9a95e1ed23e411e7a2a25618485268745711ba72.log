@@ -1,0 +1,7 @@
+  Something is wrong about buggle 'Balin':
+    The color of its brush is java.awt.Color[r=0,g=255,b=0]; expected: java.awt.Color[r=0,g=0,b=0].
+  Something is wrong about buggle 'Dwalin':
+    The color of its brush is java.awt.Color[r=0,g=255,b=0]; expected: java.awt.Color[r=0,g=0,b=0].
+  Something is wrong about buggle 'Gimli':
+    The color of its brush is java.awt.Color[r=0,g=255,b=0]; expected: java.awt.Color[r=0,g=0,b=0].
+
