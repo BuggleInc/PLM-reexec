@@ -1,0 +1,29 @@
+The turtle Hawksbill is not heading to the right direction.  There is 26 shapes, but only 5 shapes were expected
+Superflous shapes in your solution:
+   Line (x50,000 y100,000 / x51,007 y103,195 / black) 
+   Line (x50,026 y99,401 / x50,000 y200,000 / black) 
+   Line (x50,037 y99,301 / x51,065 y96,623 / black) 
+   Line (x51,007 y103,195 / x52,008 y104,307 / black) 
+   Line (x51,065 y96,623 / x52,085 y95,529 / black) 
+   Line (x52,008 y104,307 / x53,084 y105,032 / black) 
+   Line (x52,085 y95,529 / x53,173 y94,822 / black) 
+   Line (x53,084 y105,032 / x54,102 y105,444 / black) 
+   Line (x53,173 y94,822 / x54,198 y94,429 / black) 
+   Line (x54,102 y105,444 / x55,180 y105,653 / black) 
+   Line (x54,198 y94,429 / x55,280 y94,238 / black) 
+   Line (x55,180 y105,653 / x56,279 y105,653 / black) 
+   Line (x55,280 y94,238 / x56,378 y94,257 / black) 
+   Line (x56,279 y105,653 / x57,357 y105,444 / black) 
+   Line (x56,378 y94,257 / x57,452 y94,486 / black) 
+   Line (x57,357 y105,444 / x58,375 y105,032 / black) 
+   Line (x57,452 y94,486 / x58,463 y94,915 / black) 
+   Line (x58,375 y105,032 / x59,451 y104,307 / black) 
+   Line (x58,463 y94,915 / x59,526 y95,659 / black) 
+   Line (x59,451 y104,307 / x60,451 y103,195 / black) 
+   Line (x59,526 y95,659 / x60,562 y96,871 / black) 
+   Line (x60,451 y103,195 / x61,433 y100,499 / black) 
+   Line (x60,562 y96,871 / x61,441 y100,400 / black) 
+Missing shapes in your solution:
+   Line (x50,000 y100,000 / x50,000 y200,000 / black) 
+   plm.universe.turtles.Circle@273c0c41
+

@@ -1,0 +1,19 @@
+  There is 11 shapes, but only 10 shapes were expected
+Superflous shapes in your solution:
+   plm.universe.turtles.Circle@5c29e9d0
+   plm.universe.turtles.Circle@61cc088d
+   plm.universe.turtles.Circle@75002323
+   plm.universe.turtles.Circle@3fd61d0a
+   plm.universe.turtles.Circle@2c220449
+   plm.universe.turtles.Circle@2d2be920
+   plm.universe.turtles.Circle@5946de9d
+   plm.universe.turtles.Circle@5677b6f2
+Missing shapes in your solution:
+   plm.universe.turtles.Circle@23914c3d
+   plm.universe.turtles.Circle@52773e9d
+   plm.universe.turtles.Circle@5f6e9b72
+   plm.universe.turtles.Circle@6b96ab11
+   plm.universe.turtles.Circle@424ff2fa
+   plm.universe.turtles.Circle@2927aff8
+   plm.universe.turtles.Circle@23904a5
+

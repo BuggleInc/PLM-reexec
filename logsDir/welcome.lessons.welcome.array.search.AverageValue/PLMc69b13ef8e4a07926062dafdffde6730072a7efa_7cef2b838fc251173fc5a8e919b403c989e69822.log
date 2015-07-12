@@ -1,0 +1,6 @@
+averageValue(Array(2,-3,1,17,-13,5,3,1,9,18)) returned Nil while 4 were expected.
+averageValue(Array(17,29,25,16,20,14,11,2,12,23,19,19,4,34,33,12,29,5,0,34,11,5,14,29,13,22,4,30,25,5)) returned Nil while 17 were expected.
+averageValue(Array(1,1,2,3,1)) returned Nil while 1 were expected.
+averageValue(Array(1,1,2,4,1)) returned Nil while 1 were expected.
+averageValue(Array(1,1,2,1,2,3)) returned Nil while 1 were expected.
+
