@@ -1,0 +1,10 @@
+  In (0,2), the ground is expected to be red, but it is white.
+  In (0,3), the ground is expected to be white, but it is red.
+  In (1,1), the ground is expected to be white, but it is red.
+  In (2,3), the ground is expected to be white, but it is red.
+  In (4,3), the ground is expected to be white, but it is red.
+  In (5,1), the ground is expected to be white, but it is red.
+  In (6,3), the ground is expected to be white, but it is red.
+  Something is wrong about buggle 'Puppy':
+    Its position is (2,2); expected: (2,0).
+

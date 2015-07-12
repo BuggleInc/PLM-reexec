@@ -1,0 +1,6 @@
+extrema([1,2,7,1]) returned None while 6 were expected.
+extrema([1]) returned None while 0 were expected.
+extrema([1,2]) returned None while 1 were expected.
+extrema([1,2,3]) returned None while 2 were expected.
+extrema([1,3]) returned None while 2 were expected.
+

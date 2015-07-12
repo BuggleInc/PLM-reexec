@@ -1,0 +1,10 @@
+Invalid read count. Expected: 86; Found: 84
+Invalid write count. Expected: 4; Found: 16
+
+Invalid read count. Expected: 4 904; Found: 4 304
+Invalid write count. Expected: 750; Found: 718
+Value at index 89 differs. Expected DL; Found DM
+Value at index 90 differs. Expected DM; Found DL
+Value at index 131 differs. Expected FB; Found FC
+Value at index 132 differs. Expected FC; Found FB
+

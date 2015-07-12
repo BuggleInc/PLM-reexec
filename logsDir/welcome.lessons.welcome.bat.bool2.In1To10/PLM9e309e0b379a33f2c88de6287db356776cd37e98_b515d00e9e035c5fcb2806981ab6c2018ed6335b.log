@@ -1,0 +1,4 @@
+in1To10(5,False) returned None while True were expected.
+in1To10(11,False) returned None while False were expected.
+in1To10(11,True) returned None while True were expected.
+

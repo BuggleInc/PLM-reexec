@@ -1,0 +1,11 @@
+  In (6,12), the ground is expected to be java.awt.Color[r=0,g=155,b=0], but it is blue.
+  In (7,11), the ground is expected to be java.awt.Color[r=0,g=155,b=0], but it is blue.
+  In (7,12), the ground is expected to be blue, but it is yellow.
+  In (7,13), the ground is expected to be java.awt.Color[r=0,g=155,b=0], but it is blue.
+  In (8,11), the ground is expected to be blue, but it is java.awt.Color[r=0,g=155,b=0].
+  In (8,12), the ground is expected to be yellow, but it is blue.
+  In (8,13), the ground is expected to be blue, but it is java.awt.Color[r=0,g=155,b=0].
+  In (9,12), the ground is expected to be blue, but it is java.awt.Color[r=0,g=155,b=0].
+  Something is wrong about buggle 'Jessie':
+    Its position is (7,12); expected: (9,14).
+

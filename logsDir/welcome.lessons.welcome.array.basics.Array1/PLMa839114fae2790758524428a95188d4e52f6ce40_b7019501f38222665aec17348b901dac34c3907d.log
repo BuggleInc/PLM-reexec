@@ -1,0 +1,9 @@
+  Something is wrong about buggle 'Picasso':
+    Its position is (1,1); expected: (5,5).
+
+  Something is wrong about buggle 'Braque':
+    Its position is (1,1); expected: (6,6).
+
+  Something is wrong about buggle 'Ingres':
+    Its position is (1,1); expected: (7,7).
+

@@ -1,0 +1,5 @@
+  In (9,8), the ground is expected to be java.awt.Color[r=255,g=5,b=5], but it is magenta.
+  Something is wrong about buggle 'runner':
+    Its position is (9,8); expected: (9,9).
+    The color of its brush is java.awt.Color[r=255,g=0,b=255]; expected: java.awt.Color[r=255,g=5,b=5].
+

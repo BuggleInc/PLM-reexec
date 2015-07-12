@@ -1,0 +1,4 @@
+arrayCount9(Array(1,2,9)) returned Nil while 1 were expected.
+arrayCount9(Array(1,9,9)) returned Nil while 2 were expected.
+arrayCount9(Array(1,9,9,3,9)) returned Nil while 3 were expected.
+

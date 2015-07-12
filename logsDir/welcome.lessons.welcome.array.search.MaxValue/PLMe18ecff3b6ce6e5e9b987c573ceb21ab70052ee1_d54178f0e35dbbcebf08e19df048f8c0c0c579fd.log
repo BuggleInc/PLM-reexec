@@ -1,0 +1,3 @@
+maxValue(Array(18,26,17,27,21,4,20,17,12,31,22,7,23,4,27)) returned 27 while 31 were expected.
+maxValue(Array(15,33,27,18,5,24,21,28,2,21,26,33,18,32,28,4,19,13,25,27,25,4,17,11,8)) returned 11 while 33 were expected.
+

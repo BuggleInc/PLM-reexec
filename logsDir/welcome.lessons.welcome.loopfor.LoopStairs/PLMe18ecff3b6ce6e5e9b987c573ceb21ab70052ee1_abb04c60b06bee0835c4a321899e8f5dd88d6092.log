@@ -1,0 +1,22 @@
+  In (1,0), the ground is expected to be white, but it is orange.
+  In (3,0), the ground is expected to be white, but it is yellow.
+  In (3,2), the ground is expected to be white, but it is green.
+  In (3,4), the ground is expected to be white, but it is cyan.
+  In (3,6), the ground is expected to be white, but it is blue.
+  In (4,7), the ground is expected to be blue, but it is white.
+  In (5,6), the ground is expected to be cyan, but it is white.
+  In (6,5), the ground is expected to be green, but it is white.
+  In (7,4), the ground is expected to be yellow, but it is white.
+  In (8,0), the ground is expected to be white, but it is pink.
+  In (8,3), the ground is expected to be orange, but it is white.
+  In (9,0), the ground is expected to be white, but it is pink.
+  In (9,2), the ground is expected to be red, but it is white.
+  In (10,0), the ground is expected to be white, but it is pink.
+  In (10,1), the ground is expected to be magenta, but it is white.
+  In (11,0), the ground is expected to be pink, but it is white.
+  In (12,0), the ground is expected to be pink, but it is magenta.
+  In (13,0), the ground is expected to be pink, but it is white.
+  In (14,0), the ground is expected to be pink, but it is red.
+  Something is wrong about buggle 'buggle2':
+    Its position is (8,0); expected: (14,0).
+
