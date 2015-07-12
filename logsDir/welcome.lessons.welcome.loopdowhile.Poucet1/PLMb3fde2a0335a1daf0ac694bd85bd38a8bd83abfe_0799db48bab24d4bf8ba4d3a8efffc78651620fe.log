@@ -1,0 +1,17 @@
+  In (11,11), the ground reads '3' (expected: '').
+  In (16,6), the ground reads '3' (expected: '').
+  In (16,11), the ground reads '1' (expected: '').
+  In (21,6), the ground reads '3' (expected: '').
+  In (21,11), the ground reads '1' (expected: '').
+  Something is wrong about buggle 'buggle2':
+    Its position is (21,11); expected: (22,1).
+
+  In (6,6), the ground reads '3' (expected: '').
+  In (6,11), the ground reads '5' (expected: '').
+  In (11,1), the ground reads '3' (expected: '').
+  In (11,6), the ground reads '2' (expected: '').
+  In (11,11), the ground reads '2' (expected: '').
+  In (16,1), the ground reads '2' (expected: '').
+  Something is wrong about buggle 'buggle2':
+    Its position is (16,1); expected: (0,1).
+

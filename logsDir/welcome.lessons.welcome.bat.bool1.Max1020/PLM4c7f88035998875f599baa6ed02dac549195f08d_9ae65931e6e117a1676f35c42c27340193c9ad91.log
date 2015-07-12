@@ -1,0 +1,4 @@
+max1020(11,19) returned None while 19 were expected.
+max1020(19,11) returned None while 19 were expected.
+max1020(11,9) returned None while 11 were expected.
+
