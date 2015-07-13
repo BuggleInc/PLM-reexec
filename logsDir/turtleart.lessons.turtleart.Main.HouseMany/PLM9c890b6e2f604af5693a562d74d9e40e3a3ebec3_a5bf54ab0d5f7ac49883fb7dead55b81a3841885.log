@@ -1,0 +1,9 @@
+The turtle Hawksbill is at the right location.  There is 63 shapes, but only 60 shapes were expected
+Superflous shapes in your solution:
+   Line (x50,000 y0,000 / x50,000 y25,000 / black) 
+   Line (x50,000 y220,000 / x50,000 y300,000 / black) 
+   Line (x50,000 y25,000 / x250,000 y25,000 / black) 
+   Line (x250,000 y25,000 / x250,000 y100,000 / black) 
+Missing shapes in your solution:
+   Line (x50,000 y220,000 / x50,000 y250,000 / black) 
+

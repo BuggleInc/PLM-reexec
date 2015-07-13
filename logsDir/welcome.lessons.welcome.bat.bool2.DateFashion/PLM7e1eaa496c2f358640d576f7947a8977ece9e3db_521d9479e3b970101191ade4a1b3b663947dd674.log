@@ -1,0 +1,4 @@
+dateFashion(5,10) returned Nil while 2 were expected.
+dateFashion(5,2) returned Nil while 0 were expected.
+dateFashion(5,5) returned Nil while 1 were expected.
+

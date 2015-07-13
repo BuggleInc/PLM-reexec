@@ -1,0 +1,4 @@
+has271([1,2,7,1]) returned None while True were expected.
+has271([1,2,8,1]) returned None while False were expected.
+has271([2,7,1]) returned None while True were expected.
+

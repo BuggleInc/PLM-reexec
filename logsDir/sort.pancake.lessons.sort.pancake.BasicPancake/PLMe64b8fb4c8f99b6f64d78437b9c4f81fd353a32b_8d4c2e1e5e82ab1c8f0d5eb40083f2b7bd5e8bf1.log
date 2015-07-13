@@ -1,0 +1,15 @@
+Stacks were not flipped the same amount of time: 13 vs. 4
+ Pancake #1 differs: < Radius: 1 > vs. < Radius: 5 >
+ Pancake #2 differs: < Radius: 2 , upside down > vs. < Radius: 4 , upside down >
+ Pancake #3 differs: < Radius: 3 > vs. < Radius: 9 >
+ Pancake #4 differs: < Radius: 4 > vs. < Radius: 1 >
+ Pancake #5 differs: < Radius: 5 , upside down > vs. < Radius: 6 >
+ Pancake #6 differs: < Radius: 6 > vs. < Radius: 2 >
+ Pancake #7 differs: < Radius: 7 , upside down > vs. < Radius: 3 , upside down >
+ Pancake #9 differs: < Radius: 9 , upside down > vs. < Radius: 7 >
+
+Stacks were not flipped the same amount of time: 42 vs. 53
+ Pancake #1 differs: < Radius: 1 , upside down > vs. < Radius: 5 >
+ Pancake #3 differs: < Radius: 3 , upside down > vs. < Radius: 1 >
+ Pancake #5 differs: < Radius: 5 , upside down > vs. < Radius: 3 , upside down >
+

@@ -1,0 +1,10 @@
+  In (11,5), there shouldn't be this baggle.
+  Something is wrong about buggle 'Thesee':
+    Its position is (3,7); expected: (11,5).
+    It should not carry that baggle.
+
+  In (11,5), there shouldn't be this baggle.
+  Something is wrong about buggle 'Luke':
+    Its position is (7,5); expected: (11,5).
+    It should not carry that baggle.
+

@@ -1,0 +1,10 @@
+  In (0,5), the ground is expected to be white, but it is blue.
+  In (2,5), the ground is expected to be blue, but it is white.
+  In (3,5), the ground is expected to be blue, but it is white.
+  In (4,4), the ground is expected to be white, but it is blue.
+  In (5,4), the ground is expected to be blue, but it is white.
+  In (6,3), the ground is expected to be white, but it is blue.
+  In (6,5), the ground is expected to be white, but it is blue.
+  Something is wrong about buggle 'Rookie':
+    Its position is (4,1); expected: (5,1).
+

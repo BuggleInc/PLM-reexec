@@ -1,0 +1,4 @@
+withoutDoubles(2,3,true) returned Nil while 5 were expected.
+withoutDoubles(3,3,true) returned Nil while 7 were expected.
+withoutDoubles(3,3,false) returned Nil while 6 were expected.
+

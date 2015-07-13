@@ -1,0 +1,17 @@
+Invalid read count. Expected: 98; Found: 80
+
+Invalid read count. Expected: 4 978; Found: 4 370
+Invalid write count. Expected: 824; Found: 812
+Value at index 8 differs. Expected AI; Found AJ
+Value at index 9 differs. Expected AJ; Found AI
+Value at index 17 differs. Expected AR; Found AS
+Value at index 18 differs. Expected AS; Found AR
+Value at index 22 differs. Expected AW; Found AX
+Value at index 23 differs. Expected AX; Found AW
+Value at index 27 differs. Expected BB; Found BC
+Value at index 28 differs. Expected BC; Found BB
+Value at index 29 differs. Expected BD; Found BE
+Value at index 30 differs. Expected BE; Found BD
+Value at index 55 differs. Expected CD; Found CE
+Value at index 56 differs. Expected CE; Found CD
+

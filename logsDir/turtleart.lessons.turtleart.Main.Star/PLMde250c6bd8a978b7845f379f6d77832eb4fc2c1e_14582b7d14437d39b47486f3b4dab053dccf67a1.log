@@ -1,0 +1,23 @@
+The turtle Hawksbill is not heading to the right direction.  There is 11 shapes, but only 10 shapes were expected
+Superflous shapes in your solution:
+   Line (x0,000 y92,820 / x19,818 y84,813 / black) 
+   Line (x19,818 y84,813 / x53,275 y121,970 / black) 
+   Line (x53,275 y121,970 / x102,182 y132,366 / black) 
+   Line (x102,182 y132,366 / x109,141 y181,879 / black) 
+   Line (x109,141 y181,879 / x143,874 y217,846 / black) 
+   Line (x121,955 y262,786 / x143,874 y217,846 / black) 
+   Line (x150,000 y150,000 / x196,985 y132,899 / black) 
+   Line (x196,985 y132,899 / x224,944 y91,447 / black) 
+   Line (x224,944 y91,447 / x273,459 y103,543 / black) 
+   Line (x273,459 y103,543 / x300,000 y92,820 / black) 
+Missing shapes in your solution:
+   Line (x73,058 y94,098 / x102,447 y134,549 / black) 
+   Line (x73,058 y175,000 / x102,447 y134,549 / black) 
+   Line (x73,058 y94,098 / x120,611 y109,549 / black) 
+   Line (x73,058 y175,000 / x120,611 y159,549 / black) 
+   Line (x120,611 y109,549 / x150,000 y69,098 / black) 
+   Line (x120,611 y159,549 / x150,000 y200,000 / black) 
+   Line (x150,000 y69,098 / x150,000 y119,098 / black) 
+   Line (x150,000 y119,098 / x197,553 y134,549 / black) 
+   Line (x150,000 y150,000 / x197,553 y134,549 / black) 
+

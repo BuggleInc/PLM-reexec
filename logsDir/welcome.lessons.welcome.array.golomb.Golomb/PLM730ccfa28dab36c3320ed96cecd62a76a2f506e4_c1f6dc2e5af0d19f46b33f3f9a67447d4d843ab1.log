@@ -1,0 +1,3 @@
+golomb(8) returned 5 while 4 were expected.
+golomb(11) returned 6 while 5 were expected.
+

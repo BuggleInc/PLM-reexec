@@ -1,0 +1,4 @@
+  Something is wrong about buggle 'Van Gogh':
+    Its position is (3,2); expected: (1,6).
+    The color of its brush is java.awt.Color[r=255,g=0,b=0]; expected: java.awt.Color[r=255,g=255,b=0].
+

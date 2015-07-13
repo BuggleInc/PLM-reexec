@@ -1,0 +1,7 @@
+Invalid read count. Expected: 102; Found: 94
+Invalid write count. Expected: 24; Found: 22
+Value at index 0 differs. Expected A; Found B
+Value at index 1 differs. Expected B; Found A
+
+Invalid read count. Expected: 23 756; Found: 23 692
+

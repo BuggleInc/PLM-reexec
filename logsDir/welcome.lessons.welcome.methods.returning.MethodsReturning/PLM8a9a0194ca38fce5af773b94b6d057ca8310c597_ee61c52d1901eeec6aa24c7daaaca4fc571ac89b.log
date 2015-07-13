@@ -1,0 +1,9 @@
+  Something is wrong about buggle 'Searcher':
+    Its position is (0,6); expected: (3,6).
+
+  Something is wrong about buggle 'Searcher':
+    Its position is (5,4); expected: (5,6).
+
+  Something is wrong about buggle 'Searcher':
+    Its position is (2,1); expected: (2,6).
+

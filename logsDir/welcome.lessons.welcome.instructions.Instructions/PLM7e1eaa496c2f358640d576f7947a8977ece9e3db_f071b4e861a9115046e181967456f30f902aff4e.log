@@ -1,0 +1,17 @@
+  In (2,0), the ground is expected to be white, but it is light grey.
+  In (2,1), the ground is expected to be white, but it is light grey.
+  In (3,0), the ground is expected to be white, but it is light grey.
+  In (3,2), the ground is expected to be light grey, but it is white.
+  In (4,0), the ground is expected to be white, but it is light grey.
+  In (4,2), the ground is expected to be light grey, but it is white.
+  In (4,3), the ground is expected to be light grey, but it is white.
+  In (5,0), the ground is expected to be white, but it is light grey.
+  In (5,4), the ground is expected to be white, but it is light grey.
+  In (6,0), the ground is expected to be white, but it is light grey.
+  In (6,1), the ground is expected to be white, but it is light grey.
+  In (6,2), the ground is expected to be white, but it is light grey.
+  In (6,3), the ground is expected to be white, but it is light grey.
+  In (6,4), the ground is expected to be white, but it is light grey.
+  Something is wrong about buggle 'Rookie':
+    Its position is (4,2); expected: (3,3).
+
