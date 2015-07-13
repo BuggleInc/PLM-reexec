@@ -1,0 +1,14 @@
+  In (0,6), the ground reads '67' (expected: '6').
+  In (1,0), the ground reads '' (expected: '7').
+  In (1,6), the ground reads '1314' (expected: '13').
+  In (2,0), the ground reads '' (expected: '14').
+  In (2,6), the ground reads '2021' (expected: '20').
+  In (3,0), the ground reads '' (expected: '21').
+  In (3,6), the ground reads '2728' (expected: '27').
+  In (4,0), the ground reads '' (expected: '28').
+  In (4,6), the ground reads '3435' (expected: '34').
+  In (5,0), the ground reads '' (expected: '35').
+  In (5,6), the ground reads '4142' (expected: '41').
+  In (6,0), the ground reads '' (expected: '42').
+  In (6,6), the ground reads '' (expected: '48').
+

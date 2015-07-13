@@ -1,0 +1,4 @@
+fizzBuzz(3) returned Fizz  while Fizz were expected.
+fizzBuzz(6) returned Fizz  while Fizz were expected.
+fizzBuzz(9) returned Fizz  while Fizz were expected.
+

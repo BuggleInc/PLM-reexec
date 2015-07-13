@@ -1,0 +1,24 @@
+  There is 12 shapes, but only 10 shapes were expected
+Superflous shapes in your solution:
+   Line (x33.778 y118.620 / x77.079 y143.620 / black) 
+   Line (x33.778 y118.620 / x80.762 y101.519 / black) 
+   Line (x68.397 y192.861 / x77.079 y143.620 / black) 
+   Line (x68.397 y192.861 / x111.698 y167.861 / black) 
+   Line (x80.762 y51.519 / x80.762 y101.519 / black) 
+   Line (x80.762 y51.519 / x119.064 y83.659 / black) 
+   Line (x111.698 y167.861 / x150.000 y200.000 / black) 
+   Line (x119.064 y83.659 / x162.366 y58.659 / black) 
+   Line (x150.000 y150.000 / x196.985 y132.899 / black) 
+   Line (x153.683 y107.899 / x162.366 y58.659 / black) 
+   Line (x153.683 y107.899 / x196.985 y132.899 / black) 
+Missing shapes in your solution:
+   Line (x73.058 y94.098 / x102.447 y134.549 / black) 
+   Line (x73.058 y175.000 / x102.447 y134.549 / black) 
+   Line (x73.058 y94.098 / x120.611 y109.549 / black) 
+   Line (x73.058 y175.000 / x120.611 y159.549 / black) 
+   Line (x120.611 y109.549 / x150.000 y69.098 / black) 
+   Line (x120.611 y159.549 / x150.000 y200.000 / black) 
+   Line (x150.000 y69.098 / x150.000 y119.098 / black) 
+   Line (x150.000 y119.098 / x197.553 y134.549 / black) 
+   Line (x150.000 y150.000 / x197.553 y134.549 / black) 
+

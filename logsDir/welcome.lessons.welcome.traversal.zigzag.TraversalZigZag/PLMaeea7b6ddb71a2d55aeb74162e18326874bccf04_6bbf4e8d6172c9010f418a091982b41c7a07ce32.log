@@ -1,0 +1,17 @@
+  In (0,4), the ground reads '2842' (expected: '28').
+  In (0,6), the ground reads '' (expected: '42').
+  In (1,4), the ground reads '2943' (expected: '29').
+  In (1,6), the ground reads '' (expected: '43').
+  In (2,4), the ground reads '3044' (expected: '30').
+  In (2,6), the ground reads '' (expected: '44').
+  In (3,4), the ground reads '3145' (expected: '31').
+  In (3,6), the ground reads '' (expected: '45').
+  In (4,4), the ground reads '3246' (expected: '32').
+  In (4,6), the ground reads '' (expected: '46').
+  In (5,4), the ground reads '3347' (expected: '33').
+  In (5,6), the ground reads '' (expected: '47').
+  In (6,4), the ground reads '3448' (expected: '34').
+  In (6,6), the ground reads '' (expected: '48').
+  Something is wrong about buggle 'Walker':
+    Its position is (6,4); expected: (6,6).
+

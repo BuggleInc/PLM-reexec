@@ -1,0 +1,2 @@
+indexOfValue(Array(-12,4,-13,-9,4,13,19,13,12,-12,3,-9,11,-7,4,2,15,9,-5,-7),-7) returned 19 while 13 were expected.
+

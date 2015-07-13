@@ -1,0 +1,6 @@
+indexOfMaxValue(Array(2,-3,1,17,-13,5,3,1,9,18)) returned 0 while 9 were expected.
+indexOfMaxValue(Array(17,8,33,7,23,31,19,9,3,9,0,0,16,0,32)) returned 0 while 2 were expected.
+
+indexOfMaxValue(Array(2,-3,1,17,-13,5,3,1,9,18)) returned 0 while 9 were expected.
+indexOfMaxValue(Array(8,27,28,10,13,2,28,10,6,3,9,5,14,16,8)) returned 0 while 2 were expected.
+

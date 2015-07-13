@@ -1,0 +1,17 @@
+  In (0,0), the ground is expected to be white, but it is green.
+  In (0,4), the ground is expected to be white, but it is green.
+  In (1,1), the ground is expected to be white, but it is green.
+  In (1,5), the ground is expected to be white, but it is green.
+  In (2,0), the ground is expected to be green, but it is white.
+  In (2,4), the ground is expected to be green, but it is white.
+  In (3,1), the ground is expected to be green, but it is white.
+  In (3,5), the ground is expected to be green, but it is white.
+  In (4,0), the ground is expected to be white, but it is green.
+  In (4,4), the ground is expected to be white, but it is green.
+  In (5,1), the ground is expected to be white, but it is green.
+  In (5,5), the ground is expected to be white, but it is green.
+  In (6,0), the ground is expected to be green, but it is white.
+  In (6,4), the ground is expected to be green, but it is white.
+  In (7,1), the ground is expected to be green, but it is white.
+  In (7,5), the ground is expected to be green, but it is white.
+

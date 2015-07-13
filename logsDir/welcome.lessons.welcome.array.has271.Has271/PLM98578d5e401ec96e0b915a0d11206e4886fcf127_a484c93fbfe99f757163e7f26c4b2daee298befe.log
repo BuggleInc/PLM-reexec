@@ -1,0 +1,6 @@
+has271(Array(1,2,8,1)) returned Nil while false were expected.
+has271(Array(2,7,1)) returned Nil while true were expected.
+
+has271(Array(1,2,8,1)) returned Nil while false were expected.
+has271(Array(2,7,1)) returned Nil while true were expected.
+

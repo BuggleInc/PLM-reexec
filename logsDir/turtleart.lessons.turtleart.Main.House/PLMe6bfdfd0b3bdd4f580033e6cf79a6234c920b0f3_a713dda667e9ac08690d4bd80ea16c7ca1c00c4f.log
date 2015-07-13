@@ -1,0 +1,5 @@
+The turtle Hawksbill is not heading to the right direction.  x1 differs. (got Line (x100.000 y63.397 / x150.000 y150.000 / black)  instead of Line (x50.000 y150.000 / x150.000 y150.000 / black) )
+  x1 differs. (got Line (x100.000 y236.603 / x150.000 y150.000 / black)  instead of Line (x50.000 y250.000 / x150.000 y250.000 / black) )
+  x1 differs. (got Line (x150.000 y150.000 / x236.603 y200.000 / black)  instead of Line (x100.000 y63.397 / x150.000 y150.000 / black) )
+  x1 differs. (got Line (x186.603 y286.603 / x236.603 y200.000 / black)  instead of Line (x150.000 y150.000 / x150.000 y250.000 / black) )
+

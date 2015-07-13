@@ -1,0 +1,4 @@
+  In (3,3), the ground is expected to be white, but it is light grey.
+  Something is wrong about buggle 'Rookie':
+    Its position is (4,3); expected: (3,3).
+

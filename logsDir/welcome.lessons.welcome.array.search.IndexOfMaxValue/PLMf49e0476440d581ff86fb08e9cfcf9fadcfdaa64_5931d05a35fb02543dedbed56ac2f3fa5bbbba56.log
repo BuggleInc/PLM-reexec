@@ -1,0 +1,2 @@
+indexOfMaxValue(Array(25,26,27,6,23,9,16,31,31,25,25,29,4,34,4)) returned 14 while 13 were expected.
+

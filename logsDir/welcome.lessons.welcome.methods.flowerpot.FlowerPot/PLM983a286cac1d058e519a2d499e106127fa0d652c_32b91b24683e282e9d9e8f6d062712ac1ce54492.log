@@ -1,0 +1,9 @@
+  In (2,4), the ground is expected to be java.awt.Color[r=0,g=155,b=0], but it is orange.
+  In (3,3), the ground is expected to be java.awt.Color[r=0,g=155,b=0], but it is orange.
+  In (3,4), the ground is expected to be orange, but it is yellow.
+  In (3,5), the ground is expected to be java.awt.Color[r=0,g=155,b=0], but it is orange.
+  In (4,3), the ground is expected to be orange, but it is java.awt.Color[r=0,g=155,b=0].
+  In (4,4), the ground is expected to be yellow, but it is orange.
+  In (4,5), the ground is expected to be orange, but it is java.awt.Color[r=0,g=155,b=0].
+  In (5,4), the ground is expected to be orange, but it is java.awt.Color[r=0,g=155,b=0].
+

@@ -1,0 +1,78 @@
+  In (1,0), the ground is expected to be cyan, but it is red.
+  In (1,4), the ground is expected to be pink, but it is red.
+  In (2,0), the ground is expected to be green, but it is cyan.
+  In (2,3), the ground is expected to be pink, but it is red.
+  In (3,0), the ground is expected to be magenta, but it is green.
+  In (3,2), the ground is expected to be pink, but it is red.
+  In (4,0), the ground is expected to be orange, but it is magenta.
+  In (4,1), the ground is expected to be pink, but it is red.
+  In (5,0), the ground is expected to be pink, but it is orange.
+  Something is wrong about buggle 'Picasso':
+
+  In (1,0), the ground is expected to be yellow, but it is pink.
+  In (1,5), the ground is expected to be cyan, but it is pink.
+  In (2,0), the ground is expected to be red, but it is yellow.
+  In (2,4), the ground is expected to be cyan, but it is pink.
+  In (3,0), the ground is expected to be orange, but it is red.
+  In (3,3), the ground is expected to be cyan, but it is pink.
+  In (4,0), the ground is expected to be orange, but it is red.
+  In (4,3), the ground is expected to be cyan, but it is pink.
+  In (5,0), the ground is expected to be red, but it is yellow.
+  In (5,4), the ground is expected to be cyan, but it is pink.
+  In (6,0), the ground is expected to be yellow, but it is pink.
+  In (6,5), the ground is expected to be cyan, but it is pink.
+  Something is wrong about buggle 'Braque':
+
+  In (1,0), the ground is expected to be cyan, but it is magenta.
+  In (2,0), the ground is expected to be magenta, but it is pink.
+  In (2,1), the ground is expected to be cyan, but it is red.
+  In (3,0), the ground is expected to be pink, but it is black.
+  In (3,2), the ground is expected to be cyan, but it is red.
+  In (4,0), the ground is expected to be black, but it is yellow.
+  In (4,3), the ground is expected to be cyan, but it is red.
+  In (5,0), the ground is expected to be pink, but it is black.
+  In (5,2), the ground is expected to be cyan, but it is red.
+  In (6,0), the ground is expected to be magenta, but it is pink.
+  In (6,1), the ground is expected to be cyan, but it is red.
+  In (7,0), the ground is expected to be cyan, but it is magenta.
+  Something is wrong about buggle 'Ingres':
+
+  In (1,0), the ground is expected to be cyan, but it is red.
+  In (1,4), the ground is expected to be pink, but it is red.
+  In (2,0), the ground is expected to be green, but it is cyan.
+  In (2,3), the ground is expected to be pink, but it is red.
+  In (3,0), the ground is expected to be magenta, but it is green.
+  In (3,2), the ground is expected to be pink, but it is red.
+  In (4,0), the ground is expected to be orange, but it is magenta.
+  In (4,1), the ground is expected to be pink, but it is red.
+  In (5,0), the ground is expected to be pink, but it is orange.
+  Something is wrong about buggle 'Picasso':
+
+  In (1,0), the ground is expected to be yellow, but it is pink.
+  In (1,5), the ground is expected to be cyan, but it is pink.
+  In (2,0), the ground is expected to be red, but it is yellow.
+  In (2,4), the ground is expected to be cyan, but it is pink.
+  In (3,0), the ground is expected to be orange, but it is red.
+  In (3,3), the ground is expected to be cyan, but it is pink.
+  In (4,0), the ground is expected to be orange, but it is red.
+  In (4,3), the ground is expected to be cyan, but it is pink.
+  In (5,0), the ground is expected to be red, but it is yellow.
+  In (5,4), the ground is expected to be cyan, but it is pink.
+  In (6,0), the ground is expected to be yellow, but it is pink.
+  In (6,5), the ground is expected to be cyan, but it is pink.
+  Something is wrong about buggle 'Braque':
+
+  In (1,0), the ground is expected to be cyan, but it is magenta.
+  In (2,0), the ground is expected to be magenta, but it is pink.
+  In (2,1), the ground is expected to be cyan, but it is red.
+  In (3,0), the ground is expected to be pink, but it is black.
+  In (3,2), the ground is expected to be cyan, but it is red.
+  In (4,0), the ground is expected to be black, but it is yellow.
+  In (4,3), the ground is expected to be cyan, but it is red.
+  In (5,0), the ground is expected to be pink, but it is black.
+  In (5,2), the ground is expected to be cyan, but it is red.
+  In (6,0), the ground is expected to be magenta, but it is pink.
+  In (6,1), the ground is expected to be cyan, but it is red.
+  In (7,0), the ground is expected to be cyan, but it is magenta.
+  Something is wrong about buggle 'Ingres':
+

@@ -1,0 +1,11 @@
+  In (0,3), the ground is expected to be white, but it is red.
+  In (0,4), the ground is expected to be white, but it is green.
+  In (0,5), the ground is expected to be yellow, but it is green.
+  In (1,5), the ground is expected to be white, but it is green.
+  In (2,5), the ground is expected to be white, but it is green.
+  In (4,5), the ground is expected to be yellow, but it is green.
+  In (5,5), the ground is expected to be white, but it is green.
+  In (6,5), the ground is expected to be white, but it is green.
+  Something is wrong about buggle 'Picasso':
+    Its position is (7,1); expected: (4,3).
+
